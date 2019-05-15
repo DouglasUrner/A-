@@ -5,6 +5,7 @@ Console type Raspberry Pi (or maybe x86 machine) running Linux and a captive bro
 * Publish game by pushing to a web page.
 * Timed access if necessary.
 * Multiple machines - maybe even at middle schools.
+* Demo/opening screen mode in games.
 
 [Turn your Raspberry Pi into a retro arcade machine](https://www.wired.co.uk/article/retro-arcade-machine-raspberry-pi)
 
