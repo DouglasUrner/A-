@@ -19,7 +19,18 @@ Console type Raspberry Pi (or maybe x86 machine) running Linux and a captive bro
 
 **HID Hardware:**
 
-Joysticks, buttons, and the display
+Joysticks, buttons, audio, and the display
 
+Interfacing:
+
+Audio:
+
+Buttons:
+
+Display:
+
+Joysticks:
 * [Joystick Information](https://www.slagcoin.com/joystick/introduction.html)
 * [Pimoroni Picade Controller PCB - PIM110](https://www.adafruit.com/product/2708)
+
+Speakers:
