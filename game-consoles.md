@@ -1,5 +1,11 @@
 ## Game Consoles
 
+Console type Raspberry Pi (or maybe x86 machine) running Linux and a captive browser to play games developed by the GDP 1 and 2 classes. Use a Rails app to manage access to the games:
+* Authenticate so that we can get stats on unique and repeat plays and user demographics.
+* Publish game by pushing to a web page.
+* Timed access if necessary.
+* Multiple machines - maybe even at middle schools.
+
 [Turn your Raspberry Pi into a retro arcade machine](https://www.wired.co.uk/article/retro-arcade-machine-raspberry-pi)
 
 ### Components
