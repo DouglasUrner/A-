@@ -9,6 +9,7 @@
 **Web Browser:**
 
 * [How do I install Google Chrome?](https://raspberrypi.stackexchange.com/questions/374/how-do-i-install-google-chrome)
+* [How to get Google Chromium for the Raspberry Pi](https://tutorials-raspberrypi.com/google-chrome-for-raspberry-pi/)
 
 **HID Hardware:**
 
