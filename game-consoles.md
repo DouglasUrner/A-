@@ -16,3 +16,4 @@
 Joysticks, buttons, and the display
 
 * [Joystick Information](https://www.slagcoin.com/joystick/introduction.html)
+* [Pimoroni Picade Controller PCB - PIM110](https://www.adafruit.com/product/2708)
