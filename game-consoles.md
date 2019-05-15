@@ -2,6 +2,16 @@
 
 [Turn your Raspberry Pi into a retro arcade machine](https://www.wired.co.uk/article/retro-arcade-machine-raspberry-pi)
 
-**Components:**
+### Components
+
+**Rapberry Pi:**
+
+**Web Browser:**
+
+* [How do I install Google Chrome?](https://raspberrypi.stackexchange.com/questions/374/how-do-i-install-google-chrome)
+
+**HID Hardware:**
+
+Joysticks, buttons, and the display
 
 * [Joystick Information](https://www.slagcoin.com/joystick/introduction.html)
