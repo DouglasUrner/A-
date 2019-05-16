@@ -17,7 +17,7 @@ Collaboration between four programs:
 * Aerospace Composites
 * Aerospace Manufacturing
 
-Rubric design:
+Presentation rubric design:
 * Design process, especially:
   - Prototyping
   - Iteration
