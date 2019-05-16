@@ -18,14 +18,14 @@ Collaboration between four programs:
 * Aerospace Manufacturing
 
 Rubric design:
+* Design process, especially:
+  - Prototyping
+  - Iteration
 * Design decisions
 * Problems encountered & solved
 * Inter-team communication & coordination
 * Intra-team collaboration
 * Safety
-* Design process, especially:
-  - Prototyping
-  - Iteration
 
 ### Components
 
@@ -41,6 +41,8 @@ Rubric design:
 Joysticks, buttons, audio, and the display
 
 Interfacing:
+* Joystick and buttons to Raspberry Pi GPIO pins.
+* Keyboard emulator (USB)
 
 Audio:
 
