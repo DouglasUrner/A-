@@ -26,6 +26,10 @@ Rubric design:
 * Inter-team communication & coordination
 * Intra-team collaboration
 * Safety
+* Design documentation
+  - GDD
+  - H/W assembly & troubleshooting
+  - Manufacturing drawings
 
 ### Components
 
