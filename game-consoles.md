@@ -44,6 +44,9 @@ Programs:
 Presentations:
 * CS Career Night
 * "Poster Talks" before May CTE awards night
+* CTSO competetions
+* SSC
+* Presentations to community groups
 
 ### Components
 
