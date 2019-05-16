@@ -50,6 +50,12 @@ Presentations:
 * SSC
 * Presentations to community groups
 
+Design Briefs:
+
+* Game
+* Enclosure
+* Hardware
+
 ### Components
 
 **Rapberry Pi:**
