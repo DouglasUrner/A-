@@ -30,6 +30,16 @@ Rubric design:
   - GDD
   - H/W assembly & troubleshooting
   - Manufacturing drawings
+  
+### Model for South
+
+Programs:
+* Game Design
+* Animation
+* A+ / Networking
+* CAD
+* Woodshop and/or Ag manufacturing
+* Web Design
 
 ### Components
 
