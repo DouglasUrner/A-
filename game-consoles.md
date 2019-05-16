@@ -9,6 +9,24 @@ Console type Raspberry Pi (or maybe x86 machine) running Linux and a captive bro
 
 [Turn your Raspberry Pi into a retro arcade machine](https://www.wired.co.uk/article/retro-arcade-machine-raspberry-pi)
 
+### Pierce County Skills Center - Game Console Project
+
+Collaboration between four programs:
+* Game Design
+* PC Repair (A+)
+* Aerospace Composites
+* Aerospace Manufacturing
+
+Rubric design:
+* Design decisions
+* Problems encountered & solved
+* Inter-team communication & coordination
+* Intra-team collaboration
+* Safety
+* Design process, especially:
+  - Prototyping
+  - Iteration
+
 ### Components
 
 **Rapberry Pi:**
