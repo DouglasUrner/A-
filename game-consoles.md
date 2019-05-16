@@ -54,7 +54,12 @@ Design Briefs:
 
 * Game
 * Enclosure
+  - Durable & maintainable
+  - Manufacturing cost
 * Hardware
+  - Durable & maintainable
+  - Manufacturing cost
+  - Remote management & updates
 
 ### Components
 
