@@ -41,6 +41,10 @@ Programs:
 * Woodshop and/or Ag manufacturing
 * Web Design
 
+Presentations:
+* CS Career Night
+* "Poster Talks" before May CTE awards night
+
 ### Components
 
 **Rapberry Pi:**
