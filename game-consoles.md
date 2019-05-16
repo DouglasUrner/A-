@@ -33,6 +33,8 @@ Presentation rubric design:
   
 ### Model for South
 
+Game briefs from teachers & community groups for 1st semester projects.
+
 Programs:
 * Game Design
 * Animation
